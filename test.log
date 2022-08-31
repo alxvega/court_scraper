@@ -1,0 +1,341 @@
+INFO:root:Parsed info correctly from page 3
+INFO:root:Parsed info correctly from page 1
+INFO:root:Parsed info correctly from page 2
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N18J-03705
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-19-003679
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-19-014767
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-18-004316
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-14-001610
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-19-008114
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-18-004325
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-18-001912
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-21-001463
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-14-001534
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-15-001168
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N13J-01188
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N17J-00788
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-15-004575
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-14-004044
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-19-009184
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-21-004669
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N16J-01441
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-18-002173
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU6-19-000518
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N16J-01442
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-12-005554
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N18L-05-020
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-12-006786
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-21-001820
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N18L-05-020
+WARNING:root:None query could not be resolved.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=K10L-06-092
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N19J-06238
+WARNING:root:No cases available. status_code: 200 | https://courtconnect.courts.delaware.gov//cc//cconnect//ck_public_qry_judg.cp_judgment_dtl_rslt
+
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=K11J-00782
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-15-013158
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=S09L-04-049
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N17J-01504
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU6-10-001222
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=K15L-01-028
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-19-003787
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N13J-01369
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU5-18-001089
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-18-008545
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-18-007068
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N09L-11-243
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-19-002630
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N11J-07905
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-18-012398
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-21-001101
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-10-002991
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N17L-02-010
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-21-005626
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU5-19-000143
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N16J-01607
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-13-010681
+WARNING:root:None query could not be resolved.
+WARNING:root:No cases available. status_code: 200 | https://courtconnect.courts.delaware.gov//cc//cconnect//ck_public_qry_judg.cp_judgment_dtl_rslt
+
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-16-012527
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-10-013493
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-12-016072
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-12-000914
+INFO:root:Results from page 1 have been scraped.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-19-001735
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=K11J-01562
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-18-010675
+INFO:root:Results from page 2 have been scraped.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=K11J-01563
+INFO:root:Results from page 3 have been scraped.
+INFO:root:Parsed info correctly from page 4
+WARNING:root:None query could not be resolved.
+WARNING:root:No cases available. status_code: 200 | https://courtconnect.courts.delaware.gov//cc//cconnect//ck_public_qry_judg.cp_judgment_dtl_rslt
+
+INFO:root:Parsed info correctly from page 5
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-18-004124
+INFO:root:Parsed info correctly from page 6
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU5-18-001046
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-20-005810
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-12-001856
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-14-005938
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N17J-08970
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-21-004399
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N18J-03974
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-11-001436
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N20J-02005
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-12-003255
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-11-005857
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-21-002354
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-09-016776
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N21J-01897
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-12-003503
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N22J-01099
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-11-014345
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-19-006921
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-10-006064
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU5-13-000065
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-20-001872
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N10J-02830
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=K13J-00431
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-21-003968
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N14J-00493
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-18-008261
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-18-008635
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N15J-04200
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-21-004194
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-12-014225
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N16J-04790
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=K18J-00256
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-16-007530
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N17J-06492
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=K20J-01959
+WARNING:root:None query could not be resolved.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-17-007019
+WARNING:root:No cases available. status_code: 200 | https://courtconnect.courts.delaware.gov//cc//cconnect//ck_public_qry_judg.cp_judgment_dtl_rslt
+
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N18J-04056
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N16J-01192
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N12J-00016
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-13-005705
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N21J-00008
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N18J-04128
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N13J-04649
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N17J-03462
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-17-000755
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-18-009541
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N19J-03273
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-20-003358
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-17-000755
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N11J-04553
+INFO:root:Results from page 4 have been scraped.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-17-006441
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-18-008516
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-12-004165
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-18-013716
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-14-016023
+INFO:root:Results from page 6 have been scraped.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-19-003739
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-19-008889
+INFO:root:Results from page 5 have been scraped.
+INFO:root:Parsed info correctly from page 7
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N13J-01703
+INFO:root:Parsed info correctly from page 8
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N13L-01-075
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N14J-03128
+INFO:root:Parsed info correctly from page 9
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N15J-03180
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N16J-07400
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU6-10-002098
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N20J-00614
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-13-001491
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-09-004674
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-10-016108
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-11-006026
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-16-001501
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-11-003956
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-17-003362
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-19-000935
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-11-009722
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-19-000359
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-11-015281
+WARNING:root:None query could not be resolved.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-19-001005
+WARNING:root:No cases available. status_code: 200 | https://courtconnect.courts.delaware.gov//cc//cconnect//ck_public_qry_judg.cp_judgment_dtl_rslt
+
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-16-006127
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-20-000736
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-15-010851
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-16-006947
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-19-004187
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-16-001763
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-19-005883
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N16J-00372
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-13-001110
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-16-002705
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N18L-06-118
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-17-013029
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-20-001445
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-13-000082
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-16-014744
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-20-002759
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-13-014190
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-17-002503
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-20-006202
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-21-004953
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-19-011623
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-17-013181
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-10-014919
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-18-011670
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-19-000189
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N13L-05-082
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-13-012852
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-18-000485
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-14-005384
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N14J-03172
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-13-012963
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-21-000302
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N10C-12-286
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-18-012779
+INFO:root:Results from page 7 have been scraped.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N20J-01528
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N16J-01451
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-14-005847
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU6-20-000722
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-21-004373
+INFO:root:Results from page 8 have been scraped.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-21-000362
+INFO:root:Results from page 9 have been scraped.
+INFO:root:Parsed info correctly from page 10
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N16J-06147
+INFO:root:Parsed info correctly from page 11
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-11-016526
+INFO:root:Parsed info correctly from page 12
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-10-009077
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-14-001766
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-11-004469
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-15-005585
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=K17J-03192
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-19-001067
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N16J-06244
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-13-004626
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N17J-04615
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-21-003001
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-17-000232
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N17J-08095
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N20J-06931
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-17-000915
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N20J-02763
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N20J-06940
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-17-002666
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N20J-04692
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=S14L-03-035
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-13-000925
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-17-002759
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-21-006266
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N11L-03-184
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N19J-05279
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-11-008281
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-11-007967
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-12-003133
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N12J-01179
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-10-002914
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-11-014868
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-12-000522
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-17-009664
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N15L-04-015
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-12-002229
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N18J-01395
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-18-006654
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-13-004795
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-15-001721
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-12-001543
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N17J-09838
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-14-007155
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-22-004070
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=K18J-01002
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-17-004089
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-11-014858
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N21C-06-033
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-17-004707
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-11-016480
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-15-000454
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-17-000341
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-14-002396
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-17-009051
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-11-003818
+INFO:root:Results from page 10 have been scraped.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-19-015504
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-15-001064
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-16-000352
+INFO:root:Results from page 12 have been scraped.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-16-008693
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-20-002081
+INFO:root:Results from page 11 have been scraped.
+INFO:root:Parsed info correctly from page 13
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-19-005095
+INFO:root:Parsed info correctly from page 14
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-17-000305
+INFO:root:Parsed info correctly from page 15
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=S15L-03-012
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N12L-04-007
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-15-006423
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N13J-04947
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU5-16-000233
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-16-002607
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N22J-02136
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-12-006452
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-10-006960
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N21J-00525
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-21-001517
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-19-004068
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-19-002618
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N18J-00046
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-15-005975
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N16J-07074
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-13-016609
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-15-011008
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU5-13-000442
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N13J-04163
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-16-004716
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=K13J-00944
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-10-004117
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N12J-05353
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N20J-02365
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-16-008723
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N13J-03752
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N11J-07555
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-08-004542
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N11J-07912
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=N13J-04685
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-15-006568
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-17-001518
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-13-005713
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-17-000463
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-18-003928
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-13-011840
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-17-002702
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-14-006085
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP13-17-003890
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-18-005940
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-11-005096
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-17-005749
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-16-000717
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-11-006596
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-18-000092
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-19-001279
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-13-000204
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP9-19-001116
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=CPU4-12-002554
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-18-006829
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-10-004151
+INFO:root:Results from page 13 have been scraped.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=K17L-07-026
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP16-12-004033
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-11-005597
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-13-003974
+INFO:root:Results from page 14 have been scraped.
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-19-003654
+INFO:root:Parsed correctly records from https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=J&case_id=JP17-19-005096
+INFO:root:Results from page 15 have been scraped.
+INFO:root:Insert: 295 - Matched:  0 - Modified: 0
